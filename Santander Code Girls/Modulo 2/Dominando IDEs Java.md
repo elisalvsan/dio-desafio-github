@@ -47,9 +47,13 @@ Existe tanto versões pagas quanto gratuitas.
 IDE é um software que comina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário, facilitando o desenvolvimento de aplicações.
 A JDK faz parte das IDEs.
 
-### Ambiente de desenvolvimento Ubutu
+### Ambiente de desenvolvimento Unbutu
+
+[Passo a passo da configuração(disponibilizado pela professora)](https://github.com/cami-la/curso-dio-dominando-ides-java#--linux)
 
 ### Ambienete de desenvolvimento Windows
+
+[Passo a passo da configuração(disponibilizado pela professora)](https://github.com/cami-la/curso-dio-dominando-ides-java#-windows)
 
 ### Eclipse
 
