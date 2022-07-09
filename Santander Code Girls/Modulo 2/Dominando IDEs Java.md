@@ -57,4 +57,15 @@ A JDK faz parte das IDEs.
 
 ### Eclipse
 
+- Criando seu primeiro projeto
+    Foi ensinado como mudar a pespectiva organizacional das abas utilizando o atalho ctrl+3;
+    Ensinado a como criar um java project;
+    Monstrado como fica organizado as packages;
+    E como utilizar o atalho ctrl+space para completar o codigo.
+
+        Atalhos dados durante a aula e o que eu entendi deles.
+        ctrl + 3 - aba de pesquisa;
+        ctrl + n - aba criação de um novo arquivo na pasta selecionada;
+        ctrl + space - atalho para completar o codigo;
+        
 ### Intellij
